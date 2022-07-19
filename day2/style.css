@@ -1,0 +1,14 @@
+#main{
+    background-color: red;
+}
+.info{
+    padding: 2rem;
+}
+h1{
+    font-size: 4rem;
+}
+
+p{
+    font-size: 1rem;
+    text-align: right;
+}
