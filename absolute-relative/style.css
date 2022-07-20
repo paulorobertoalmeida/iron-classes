@@ -1,0 +1,47 @@
+#first {
+    height: 50vh;
+    width: 100vh;
+    background-color: #43D2FF;
+    margin:10px;
+    position: relative;
+}
+
+.one{
+    position: absolute;
+    margin: 0 0 0 0;
+
+}
+
+.two{
+    position: absolute;
+    margin: 0 150px 0 0;
+    
+}
+.three{
+    position: absolute;
+    
+}
+
+.four{
+    position: absolute;
+    
+}
+
+.five{
+    position: absolute;
+    
+}
+
+#second {
+    position: relative;
+    height: 50vh;
+    width: 100vh;
+    background-color: #43D2FF;
+    margin-top: 10px;
+
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
